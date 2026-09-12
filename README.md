@@ -39,10 +39,10 @@ This SQL query analyzed the following results:
 
 | 2020 | 2021 | 2022 | 2023|
 | --- | --- | --- | --- |
-| Rank 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
-| Rank 2| Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
-| Rank 3 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
-| Rank 4 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 |
-| Rank 5 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 |
+| Rank 1 | Uber | Bytedance | Meta|
+| Rank 2| Booking.com | Katerra | Amazon|
+| Rank 3 | Groupon | Zillow | Cisco |
+| Rank 4 | Swibby | Instacart | Peloton |
+| Rank 5 | Airbnb | Whitehat Jr | Carvana|
 
 Exploratory Data Analysis Project: [exploratory data analysis project.sql](https://github.com/user-attachments/files/32093620/exploratory.data.analysis.project.sql)
