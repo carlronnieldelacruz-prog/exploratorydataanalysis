@@ -31,4 +31,17 @@ This SQL query analyzed the following results:
 
 #### Key Insights
 
+- The year with the highest total layoffs was 2022.
+- The industry with the highest total layoffs was Consumer with 45182 layoffs
+- The top 3 company with the largest recorded layoffs were Amazon, Google, and Meta, with 18150, 12000, and 11000 respectively
+- The United States lead all countries in total layoffs, with a recorded total of 256599. This was followed by India, with 35993 layoffs.
+- The top 5 companies by layoffs for each year are shown in the table below <br>
+| 2020 | 2021 | 2022 | 2023|
+| :--- | :--- | :--- | :--- |
+| Rank 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
+| Rank 2| Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
+| Rank 3 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
+| Rank 4 | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 |
+| Rank 5 | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 |
+
 Exploratory Data Analysis Project: [exploratory data analysis project.sql](https://github.com/user-attachments/files/32093620/exploratory.data.analysis.project.sql)
