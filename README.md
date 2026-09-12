@@ -37,7 +37,7 @@ This SQL query analyzed the following results:
 - The United States lead all countries in total layoffs, with a recorded total of 256599. This was followed by India, with 35993 layoffs.
 - The top 5 companies by layoffs for each year are shown in the table below <br>
 
-| 2020 | 2021 | 2022 | 2023|
+|| 2020 | 2021 | 2022 | 2023|
 | --- | --- | --- | --- |
 | Rank 1 | Uber | Bytedance | Meta|
 | Rank 2| Booking.com | Katerra | Amazon|
