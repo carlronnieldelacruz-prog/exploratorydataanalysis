@@ -29,4 +29,6 @@ This SQL query analyzed the following results:
 - Identifying companies with the highest layoffs per year
 - Ranking the top 5 companies by layoffs for each year
 
+#### Key Insights
+
 Exploratory Data Analysis Project: [exploratory data analysis project.sql](https://github.com/user-attachments/files/32093620/exploratory.data.analysis.project.sql)
